@@ -1,0 +1,16 @@
+.Person {
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px solid #eee;
+    border-radius: 20px;
+    box-shadow: 0 2px 3px rgb(98, 151, 54);
+    box-sizing: border-box;
+    width: 80%;
+    text-align: center;
+    background-color: rgb(105, 199, 93);
+}
+
+.Person:hover {
+    background-color: rgb(132, 179, 15);
+    cursor: pointer;
+}

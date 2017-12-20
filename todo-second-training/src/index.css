@@ -1,0 +1,15 @@
+body {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: rgb(228, 242, 253)
+}
+
+.description {
+  color: rgb(255, 255, 255);
+  background: rgb(43, 46, 211);
+  padding: 0 5px;
+  margin-bottom: 3px;
+} 

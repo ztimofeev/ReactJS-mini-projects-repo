@@ -1,0 +1,9 @@
+.counter-output {
+  height: 68px;
+  background-color: rgb(247, 130, 20);
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  margin-top: 5px;
+  padding-top: 32px;
+}
